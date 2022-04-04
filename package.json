@@ -4,7 +4,7 @@
   "description": "performing various automation tests in order to see quality of the etsy platform",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "testing"
   },
   "repository": {
     "type": "git",
