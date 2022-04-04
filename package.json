@@ -1,0 +1,22 @@
+{
+  "name": "etsy-automation",
+  "version": "1.0.0",
+  "description": "performing various automation tests in order to see quality of the etsy platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryannVasilyeva/etsy-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaryannVasilyeva/etsy-automation/issues"
+  },
+  "homepage": "https://github.com/MaryannVasilyeva/etsy-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
