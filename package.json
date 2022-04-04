@@ -4,7 +4,9 @@
   "description": "performing various automation tests in order to see quality of the etsy platform",
   "main": "index.js",
   "scripts": {
-    "test": "testing"
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open",
+    "cy:run:chrome": "cypress run --browser chrome"
   },
   "repository": {
     "type": "git",
