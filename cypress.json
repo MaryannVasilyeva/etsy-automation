@@ -1,3 +1,5 @@
 {
-    "hideXHR": true
+    "hideXHR": true,
+    "watchForFileChanges": false,
+    "baseUrl": "https://www.etsy.com/"
 }
