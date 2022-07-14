@@ -41,6 +41,7 @@ describe('Initial Test', () => {
                             expect($opt).to.be.selected
                         })
                     })
+                    cy.get('input').contains('Under $25').check()
                 })
             })
     })
